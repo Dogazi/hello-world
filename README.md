@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+just another repository fro training github use
